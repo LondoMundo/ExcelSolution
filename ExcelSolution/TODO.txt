@@ -1,0 +1,5 @@
+1. Figure out a way to maintain spaces, like escaping a character with \ Colin Murphy becomes  Colin, Murphy. That makes 2 cells when we want 1.
+
+2. Create a GUI with wxPython
+
+3. make compatible with .ODS spreadsheets
