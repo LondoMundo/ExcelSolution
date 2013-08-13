@@ -7,7 +7,7 @@ This set of Python Scripts are designed to help with transferring data from larg
 
 Your Excel file must be the same as the file name on line 4 of ToCSV.py
 
-run ToCSV first, then open the output from that in a text editor. All you have to do is add spaces where you want commas to be. Then run AddCommas.py
+run ToCSV first, select the spreadsheet file that you want to use, and name the output file, then open that output file in a text editor. All you have to do is add spaces where you want commas to be. Then run AddCommas.py
 
 A comma denotes a cell. lines denote rows. 
 The data is essentially just a raw spreadsheet
